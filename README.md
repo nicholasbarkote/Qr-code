@@ -18,7 +18,7 @@
 
 ## Links
 
-- solution url
+- solution url [ Click me ](https://nicholasbarkote.github.io/Qr-code/)
 
 # Built With
 
