@@ -3,6 +3,7 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Outfit', sans-serif;
+    font-size:15px;
 }
 
 .main{
@@ -31,12 +32,10 @@
     border-radius: 10px;
 }
 .qr-content > p.title{
-    font-size: 15px;
     font-weight: 700;
     text-align: center;
 }
 .qr-content > p.footer{
-    font-size: 15px;
     font-weight:400 ;
     text-align: center;
 }
